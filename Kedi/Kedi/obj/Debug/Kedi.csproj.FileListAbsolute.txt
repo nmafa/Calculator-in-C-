@@ -1,0 +1,12 @@
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\bin\Debug\Kedi.exe.config
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\bin\Debug\Kedi.exe
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\bin\Debug\Kedi.pdb
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.csprojResolveAssemblyReference.cache
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.Form1.resources
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.Properties.Resources.resources
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.csproj.GenerateResource.Cache
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.exe
+c:\users\clayton.fry.multipc-05\documents\visual studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.pdb
+\\multiserver-1\ShareDrive\Nakedi's documents\Visual Studio 2015\Projects\Kedi\Kedi\bin\Debug\Kedi.exe.config
+\\multiserver-1\ShareDrive\Nakedi's documents\Visual Studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.exe
+\\multiserver-1\ShareDrive\Nakedi's documents\Visual Studio 2015\Projects\Kedi\Kedi\obj\Debug\Kedi.pdb
